@@ -1,4 +1,4 @@
-English | [简体中文](https://github.com/yunshuipiao/algorithms/blob/master/README_CN.md)
+English | [简体中文](https://github.com/yunshuipiao/algorithms/blob/master/README_CN.md) | [한국어](https://github.com/ksh-code/algorithms/blob/master/README_KO.md)
 
 [![Open Source Helpers](https://www.codetriage.com/keon/algorithms/badges/users.svg)](https://www.codetriage.com/keon/algorithms)
 [![Build Status](https://travis-ci.org/keon/algorithms.svg?branch=master)](https://travis-ci.org/keon/algorithms)
